@@ -340,7 +340,7 @@ export const projects = [
     title: "ColdMailX – AI-Powered Cold Email Automation Platform",
     date: "Nov 2025 - Dec 2025",
     description: `Built a full-stack cold email automation platform designed for job seekers to streamline outreach to recruiters and HR professionals. Implemented REST APIs for managing HR contacts with CSV ingestion, validation, and deduplication. Designed a dynamic campaign engine supporting personalized templates with placeholders and automated bulk email delivery using Nodemailer. Integrated AI-generated email templates to improve response rates and implemented rate limiting to ensure safe and scalable email sending.`,
-    image: "https://private-user-images.githubusercontent.com/89989932/489246359-8b3f91ed-b511-4e38-b588-6e5ee727d11d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ2ODIxOTMsIm5iZiI6MTc3NDY4MTg5MywicGF0aCI6Ii84OTk4OTkzMi80ODkyNDYzNTktOGIzZjkxZWQtYjUxMS00ZTM4LWI1ODgtNmU1ZWU3MjdkMTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI4VDA3MTEzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmYmZmZDA4MGVkNGVmNzU3YTY1NWQ4ZWFhNGZhNTFhNzllYTg3ZWE0NWRkNzE1MGM2ZjczYmIzNWM2MzUyYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6CcX_LlO4C1EoFql4bUGGtOU-5XtJBqfxXDOMmBL2oU",
+    image: "https://github.com/user-attachments/assets/8b3f91ed-b511-4e38-b588-6e5ee727d11d",
     tags: [
       "MERN",
       "Node.js",
@@ -360,7 +360,7 @@ export const projects = [
     title: "LiveWell – Property Booking & Rental Platform",
     date: "Feb 2025 - Apr 2025",
     description: `Developed a full-stack property booking platform connecting tenants and property owners with seamless discovery and booking experience. Built REST APIs to manage 100+ property listings with advanced search and location-based filtering using map integration. Implemented secure authentication with 2FA and enabled online rent payments via Razorpay. Designed interactive dashboards for admins and users along with 360° virtual property views and real-time chat using Socket.io, improving user engagement and booking efficiency.`,
-    image: "https://private-user-images.githubusercontent.com/89989932/442479228-9367c578-96c5-4811-a10e-d3df7a3af96a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQ2ODI0NTEsIm5iZiI6MTc3NDY4MjE1MSwicGF0aCI6Ii84OTk4OTkzMi80NDI0NzkyMjgtOTM2N2M1NzgtOTZjNS00ODExLWExMGUtZDNkZjdhM2FmOTZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzI4VDA3MTU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxZjFkYTBlYWY3MjNhZTRlNmM5NzNmOTk2OGNiZTYwOGQ1MWQ5ODQwZTliYWEyYmE4ODgzNTRjODExZGU4ODImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zJKWL5mH7--Pel1rlFrE13rvhNCzmkHpm4uJjM8KMjc",
+    image: "https://github.com/user-attachments/assets/9367c578-96c5-4811-a10e-d3df7a3af96a",
     tags: [
       "MERN",
       "React.js",
