@@ -487,7 +487,6 @@ export const projects = [
       "Flask",
       "Python",
     ],
-    category: "web app",
     category: "machine learning",
     github: "https://github.com/Ritesh512/Crop-Prediction-App",
     webapp:
